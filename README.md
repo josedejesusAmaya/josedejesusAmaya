@@ -1,4 +1,4 @@
-### I am an introspective man, determined to be better every day. Interested in new technologies and their use to solve the problems of our society. One of my goals is to keep improving my abilities as a professional software engineer. 👽
+### I’m an introspective man, determined to be better every day. 👽
 
 <!--
 **josedejesusAmaya/josedejesusAmaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
