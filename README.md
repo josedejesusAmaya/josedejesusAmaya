@@ -1,4 +1,8 @@
-### Welcome! 👽
+### Welcome!
+
+<p align="center">
+  <img alig width=30% src="https://user-images.githubusercontent.com/18668659/102731721-3009b100-42fe-11eb-8409-01b5a8bfda78.png" />
+</p>
 
 <p align="center">
 	<a href="https://github.com/josedejesusamaya"><img src="https://img.shields.io/github/followers/josedejesusamaya.svg?label=GitHub&style=social" alt="GitHub"></a>
