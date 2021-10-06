@@ -9,6 +9,10 @@
 	<a href="https://twitter.com/im_DevPp"><img src="https://img.shields.io/twitter/follow/im_DevPp?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/josedejesusamaya"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
+
+<p align="center">
+	<img src="https://www.codewars.com/users/josedejesusAmaya/badges/micro">
+</p>
 	
 <br>
 
@@ -23,10 +27,6 @@
   </a>
   <br>
   <br>
-</p>
-
-<p align="center">
-	<img src="https://www.codewars.com/users/josedejesusAmaya/badges/large">
 </p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12166210892&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12166210892&redirect=true)
