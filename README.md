@@ -11,8 +11,14 @@
 </p>
 
 <p align="center">
-	<a href="https://www.codewars.com/users/josedejesusAmaya" target="_blank"> 
-		<img src="https://www.codewars.com/users/josedejesusAmaya/badges/micro" alt="codewars">
+	<a href="https://www.hackerrank.com/hello_devpp" target="_blank">
+		<img alt="HackerRank Logo" src="https://hrcdn.net/fcore/assets/brand/typemark_60x200-7435b42d20.svg" >
+	</a>
+</p>
+
+<p align="center">
+	<a href="https://www.codewars.com/users/josedejesusAmaya" target="_blank">
+		<img alt="Codewars Rate" src="https://www.codewars.com/users/josedejesusAmaya/badges/large">
 	</a>
 </p>
 	
