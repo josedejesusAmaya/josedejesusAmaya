@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-	<a href="https://github.com/josedejesusamaya"><img src="https://img.shields.io/github/followers/josedejesusamaya.svg?label=GitHub&style=social" alt="GitHub"></a>
+	<!--<a href="https://github.com/josedejesusamaya"><img src="https://img.shields.io/github/followers/josedejesusamaya.svg?label=GitHub&style=social" alt="GitHub"></a>-->
 	<a href="https://twitter.com/im_DevPp"><img src="https://img.shields.io/twitter/follow/im_DevPp?label=Twitter&style=social" alt="Twitter"></a>
 	<a href="https://www.linkedin.com/in/josedejesusamaya"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://medium.com/@devpp"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
